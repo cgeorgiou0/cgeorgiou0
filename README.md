@@ -1,6 +1,6 @@
 <img src="github-header-image (2).png" alt="GitHub Banner" width="100%"/>
 "
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Chris!
 
 ## 🚀 About Me
 - 🎮 **Game Development:** Created interactive narrative games in Unity, and developed a 2D game using Godot for my bachelor’s thesis.
