@@ -1,5 +1,5 @@
-![Header](.![github-header-image](https://github.com/user-attachments/assets/9bf3749f-5ecb-427b-84cc-29ddbda94302)
-)
+<img src="(https://github.com/user-attachments/assets/8810a297-b27f-48fd-8c6f-a0fcfb093a1d)"
+"
 ## Hi there 👋
 
 <!--
