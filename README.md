@@ -1,4 +1,4 @@
-![Header](./![github-header-image](https://github.com/user-attachments/assets/9bf3749f-5ecb-427b-84cc-29ddbda94302)
+![Header](.![github-header-image](https://github.com/user-attachments/assets/9bf3749f-5ecb-427b-84cc-29ddbda94302)
 )
 ## Hi there 👋
 
